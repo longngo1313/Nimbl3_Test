@@ -1,0 +1,4 @@
+#Mon Aug 21 14:04:48 ICT 2017
+base.0=D\:\\Nimbl3_VuLong\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Nimbl3_VuLong\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
